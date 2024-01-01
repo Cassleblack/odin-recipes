@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#header {
+    text-align: center;
+    color: white;
+}
+
+.container, .sub-heading, .text, .link {
+    text-align: center;
+}

@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+#header {
+    text-align: center;
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+#Recipes {
+    text-align: center;
+    color: white;
+}
+
+.box {
+    color: black;
+    background-color: white;
+}
+
+#First-button {
+    text-align: center;
+}
+
+#Second-button {
+    text-align: center;
+}
+
+#Third-button {
+    text-align: center;
+}
